@@ -11,3 +11,4 @@ override.tf.json
 *_override.tf.json
  ```
 - ФАйлы настройки CLI: `.terraformrc` и `terraform.rc`
+new line
